@@ -1,3 +1,6 @@
+[submodule "kaxitiblog/themes/terminal"]
+	path = kaxitiblog/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
 [submodule "kaxitiblog/public"]
 	path = kaxitiblog/public
 	url = https://github.com/odysseasEko/kaxiti.github.io.git
