@@ -1,0 +1,3 @@
+[submodule "kaxitiblog/public"]
+	path = kaxitiblog/public
+	url = https://github.com/odysseasEko/kaxiti.github.io.git
