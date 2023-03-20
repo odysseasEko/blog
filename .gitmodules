@@ -1,3 +1,6 @@
 [submodule "kaxiti/themes/PaperMod"]
 	path = kaxiti/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "kaxiti/public"]
+	path = kaxiti/public
+	url = https://github.com/odysseasEko/kaxiti.github.io.git
