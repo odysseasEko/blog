@@ -56,7 +56,7 @@ tocopen = false
   enabled = false
   title = "ExampleSite"
   subtitle = "This is subtitle"
-  imageUrl = "<img location>"
+  imageUrl = "cover.jpeg"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
@@ -70,29 +70,12 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
-
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  Title = "Για σας όμορφοι"
+  Content = "Καλώς ήρθατε στο blog μου"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
-
-[params.analytics.google]
-SiteVerificationTag = "XYZabc"
-
-[params.analytics.bing]
-SiteVerificationTag = "XYZabc"
-
-[params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
+  url = "https://github.com/odysseasEko"
 
   [params.cover]
   hidden = true
@@ -113,23 +96,6 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
-
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
 
 [markup.highlight]
 noClasses = false
