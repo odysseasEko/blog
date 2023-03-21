@@ -77,6 +77,10 @@ tocopen = false
   name = "github"
   url = "https://github.com/odysseasEko"
 
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/watch?v=TFwXbp9bLlY"
+
   [params.cover]
   hidden = true
   hiddenInList = true
